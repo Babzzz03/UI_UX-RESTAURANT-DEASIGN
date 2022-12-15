@@ -3,7 +3,7 @@
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-A UI UX restaurant landing page
+A UI/UX restaurant landing page
 
 
 
